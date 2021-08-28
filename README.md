@@ -1,5 +1,5 @@
 # Image-Face-Detection
-Shows faces detected in a new image
+Python: Jupyther Notebook  Image Face Detection
 
 <BR>
   <BR>
