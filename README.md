@@ -1,4 +1,4 @@
-# Image-Face-Detection
+# Python-Image-Face-Detection
 Python: Jupyther Notebook  Image Face Detection
 
 <BR>
